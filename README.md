@@ -1,6 +1,8 @@
 # meals_app
 
-A new Flutter project.
+This is a flutter meals or recipes project that shows off some meals and has some futures....
+
+Important Note: That application was made with the help of [maxmillian] course on udemy and only for learning purposes...
 
 ## Getting Started
 
